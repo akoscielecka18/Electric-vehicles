@@ -24,6 +24,8 @@ AtliQ Motors is an automotive giant from the USA specializing in electric vehicl
 
 #### KPIs
 Key Performance Indicatos(KPIs):
+
+
 - Total Sales (all vehicles), Electric vehicles total sales, average total sales per state, average electric vehicles sales per state
 - Electric vehicles penetration rate 
 
@@ -58,23 +60,22 @@ IF([EV_total] = _var, [EV_total], BLANK())
 #### Insights
 Overall analysis
 
-- 
-- 
-- 
+- Overall vehicle sales peak was around October and November and tend to be lower between first and second quarters of each fiscal year. 
+- In contrast, electric vehicles (EVs) are sold more frequently during the last quarter, particularly in March.
+- The lowest point for EVs sales occurred  in May 2022 (1K) the same for total vehicles sales (0,55M).
+- The heighest point for EVs sales was in March 2024  (138K) but for total vehicles was in Nov 2024 (2,6M).
 
 States
 
-- 
--
--
+- The heighest number of vehicles has Uttar Pradesh but in the same time it has a really low penetration of EVs. Meanwhile Maharashtra has the second number of vehicle is on the fifth place with the heighest penetration rate overall.
+- The heighest penetration rate in EVs has Goa almost 10 % of total vehicles sales. The lowest penetration rate has Sikkim. 
+- Overall penetration rate is 3,61% but since 2022 this number only increase.
+- The negative penetration rate in 2024 have Gujarat, Rajasthan, Uttarakhand, Haryana, Jharkhand, Himachal Pradesh.
+
 
 Maker
 
--
--
--
-
-#### Key Enhancements to Dashboard
-
-
-
+- Overall, 4-wheelers are significantly less popular than 2-wheelers.
+- Ola Electric has been the market leader since 2023, and in 2024, it achieved the highest increase compared to the previous year, with nearly 170K new vehicles sold. 
+- In the category 2-Wheelers also Ola Electric is a market leader. However in 4-Wheelers category unbeatably lead the way Tata Motors. In every year it has enormous majority.
+- Sales of electric cars are growing year by year, so maybe the brands that are currently less popular, like Mercedes-Benz AG, will notice this trend and start developing better models to attract more customers.
